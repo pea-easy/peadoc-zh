@@ -23,7 +23,7 @@ order: 7
 //config/plugin.js
   logger: {
         enable:true, //是否启用标识
-        package:'quick-logger' //包名称
+        package:'pea-logger' //包名称
   }
 
 ```
@@ -58,7 +58,7 @@ npm i pea-redis
 //config/plugin.js
   redis: {
         enable:true, //是否启用标识
-        package:'quick-logger' //包名称
+        package:'pea-redis' //包名称
   }
 ```
 做完以上配置启动的时候会初始化好所有工作，在APP绑定一个APP.redis对象

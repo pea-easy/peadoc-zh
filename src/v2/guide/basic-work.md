@@ -26,7 +26,9 @@ peajs 的目的是让开发者能够忽略基础工作，专注于业务的开�
 2. 支持按配置保存的时候自动修复大部分ESlint错误问题。在Code->Preferences->Settings->workspace setting 里面添加如下设置。global-object
 ```
  "eslint.autoFixOnSave": true
+
 ```
+> yo pea脚手架自动生成之后保存命令即可修复eslint错误
 这样就可以在保存文件的时候自动修复eslint常规错误
 
 
