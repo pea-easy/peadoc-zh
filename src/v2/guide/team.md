@@ -259,7 +259,7 @@ order: 803
       ]
     },
     {
-      name: 'Darrick Xue',
+      name: 'DarrickBM',
       title: 'Extrapolator',
       city: 'Shanghai, China',
       languages: ['zh', 'en'],
