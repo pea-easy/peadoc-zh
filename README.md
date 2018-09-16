@@ -1,7 +1,7 @@
 # Peajs
 [![npm package](https://badge.fury.io/js/generator-pea.svg)](https://www.npmjs.com/package/generator-pea)
 
-完整的文档 <a href="http://120.78.129.187">链接</a>.
+完整的文档 <a href="https://www.peajs.top">链接</a>.
 
 
 
