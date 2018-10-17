@@ -1,6 +1,6 @@
 site_description: "Vue.js - JavaScript 渐进式框架"
 root_domain: vue.docschina.org
-vue_version: 2.5.13
+vue_version: 2.5.17
 
 special_sponsors:
   - url: https://stdlib.com

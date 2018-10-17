@@ -2,8 +2,8 @@
 title: 目录结构
 type: guide
 order: 3
-vue_version: 2.5.13
-gz_size: "30.67"
+vue_version: 2.5.17
+gz_size: "30.90"
 ---
 
 ### 目录结构
